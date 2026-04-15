@@ -4,8 +4,10 @@
 📝 **Last updated:** October 28, 2025
 
 Hi, everyone! ✨  This is the repository containing all my sample systems for the Programming Skills Evaluation/Battery Exam. In here, you will find the following systems in their respective year folders:
-1. **2024:** E-Baranggay Management System **[NO TEST DATA]**
+
+1. **2024:** E-Barangay Management System **[NO TEST DATA]**
 2. **2025:** Basic Inventory Management System
+3. **2026:** E-Barangay Management System **[NO TEST DATA]**
 
 Before cloning the repo to your local machines, kindly ensure that you have the following applications installed:
 

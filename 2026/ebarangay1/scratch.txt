@@ -1,0 +1,48 @@
+Walkthrough Link: https://youtu.be/V28a2w8J17E
+
+=======================================================
+
+Current Date = November 2025
+
+Total Asset Chart:
+
+<= 3,000,000                -> Micro
+3,000,000.01 - 15,000,000   -> Small
+15,000,000.01 - 100,000,000 -> Medium
+100,000,000.01 >=           -> Large
+
+Micro   -> 1% of gross sales        0.01
+Small   -> 1.25% of gross sales     0.0125
+Medium  -> 1.5% of gross sales      0.015
+Large   -> 1.75% of gross sales     0.0175
+
+--
+
+75,000 = Gross Sales
+Jan 14 2025 = Date of Registration (within the deadline; no 5k fee)
+
+75,000 * 1.5% = 1,125
+
+Min. Tax Due is Php 1,125
+
+--
+
+100,000 = Gross Sales
+Feb 2024 - Nov 2025 = 22 months
+
+ == Why Feb 2024? Because January 2024 is the filing deadline
+
+ == But date of registration is Apr 2024, why is it still counting from feb 2024?
+
+ Disregard and consider everything past jan 2025 as non-renewal (charge them the entire year + the overlapping months of the current year)
+
+ Feb 2024 - Jan 2025 = 12 months
+ Feb 2025 - Nov 2025 = 10 months
+
+5,000 + (500 * 22) = 16,000
+
+100,000 * 1.25% (small business) = 1,250
+
+16,000 + 1,250 = 17,250 (matches answer)
+
+Finished :D 
